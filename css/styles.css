@@ -71,3 +71,13 @@ body{
     font-weight: 500;
     font-size: large;
 }
+
+#carouselButton{
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+}
+
+#carouselButton{
+    color: #512DAB;
+}
